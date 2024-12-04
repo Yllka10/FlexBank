@@ -1,0 +1,19 @@
+#navbari{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#foto{
+    border-radius: 100%;
+}
+#Netflix{
+    display: flex;
+}
+#netflix1{
+    display: flex;
+}
+#bill{
+
+    color: red;
+   
+}
