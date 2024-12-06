@@ -12,8 +12,14 @@
 #netflix1{
     display: flex;
 }
-#bill{
 
-    color: red;
-   
+#yllka{
+    display: flex;
+}
+#bill{
+    display: flex;
+   margin-top: -2em;
+}
+#paret{
+    margin-left: 20px;
 }
