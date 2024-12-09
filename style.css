@@ -22,4 +22,35 @@
 }
 #paret{
     margin-left: 20px;
+    color: red;
+}
+#Done{
+    display: flex;
+}
+#paret1{
+    color: green;
+    margin-left: 20px;
+}
+#accountbalance{
+    background-color: rgba(19, 23, 243, 0.952);
+    width: 500px;
+    height: 200px;
+    border-radius: 20px;
+    color: white;
+    font-size: larger;
+   
+    
+     }
+.hapsira{
+    margin-left: 5px;
+}
+#account{
+    padding: 30px;
+}
+#account.{
+    padding-top: 30px;
+    padding-right: 30px;
+}
+#padding{
+    padding: 30px;
 }
