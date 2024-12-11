@@ -47,10 +47,29 @@
 #account{
     padding: 30px;
 }
-#account.{
+#account1{
     padding-top: 30px;
     padding-right: 30px;
 }
 #padding{
-    padding: 30px;
+    padding: 10px;
 }
+#ngjyra{
+    background-color: rgba(19,23,243,0.952);
+    width: 500px;
+    
+    border-radius: 20px;
+ 
+    font-size: larger;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+#yllka{
+    display: flex;
+}
+#yllka1{
+    
+}
+
+
